@@ -780,7 +780,7 @@ proxies:
     headers:
       Host: torjan.xn--xhq44j.eu.org
     path: /
-- name: United States_None_trojan_1135
+- name: None_None_trojan_1135
   network: ws
   password: ttfang
   port: 2096
@@ -999,7 +999,7 @@ proxy-groups:
   - United States_Ashburn_trojan_1132
   - Russia_None_trojan_1133
   - United States_None_trojan_1134
-  - United States_None_trojan_1135
+  - None_None_trojan_1135
   - United States_None_trojan_1136
   - The Netherlands_Amsterdam_hy_0
   - The Netherlands_Amsterdam_hy_1
@@ -1088,7 +1088,7 @@ proxy-groups:
   - United States_Ashburn_trojan_1132
   - Russia_None_trojan_1133
   - United States_None_trojan_1134
-  - United States_None_trojan_1135
+  - None_None_trojan_1135
   - United States_None_trojan_1136
   - The Netherlands_Amsterdam_hy_0
   - The Netherlands_Amsterdam_hy_1
